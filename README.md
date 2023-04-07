@@ -11,5 +11,7 @@ Switch plate & right side case enclosure done
 ![IMG_8340](https://user-images.githubusercontent.com/118025702/226233953-1a41b210-dcd2-4b1c-ba97-c64575b2e53b.JPG)
 Case enclosure
 ![IMG_8368](https://user-images.githubusercontent.com/118025702/227585377-10b9ad77-2625-481a-a5ed-c0508377502e.JPG)
+Bottom plate
+![IMG_8465](https://user-images.githubusercontent.com/118025702/230649570-5fbabb2c-a96a-41a8-8044-8671e2bfcb81.JPG)
 Fits a 60% travel case
 ![IMG_8381](https://user-images.githubusercontent.com/118025702/227634257-849d8b48-b8ef-4424-8bb4-8978b87dd6f6.JPG)
