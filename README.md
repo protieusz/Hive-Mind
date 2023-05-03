@@ -3,6 +3,13 @@ Handwire 47 keys angled split with a large cluster numpad in the middle keyboard
 
 Featured in KBDnews.com https://kbd.news/HiveMind-1944.html
 
+Un-tested Rev 01 pcb.  Should work since there are no DRC errors. No support offered. Print at your own risk. I will upload the pcb firmware soon.
+
+Top side
+![HiveMindTop2D PCB](https://user-images.githubusercontent.com/118025702/235810288-9e5f50e1-21e6-4bbb-a02c-405355279039.png)
+Bottom side
+![HiveMindBottom2D PCB](https://user-images.githubusercontent.com/118025702/235810308-3d662bd7-a72c-4a07-9a29-2d9c4c5dc1ad.png)
+
 STL preview
 ![Screenshot 2023-03-06 at 4 12 02 PM](https://user-images.githubusercontent.com/118025702/224139596-838eccb0-950e-4fd8-b52b-aaa2e7f21c73.png)
 
